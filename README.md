@@ -1,5 +1,3 @@
-
-# prework-study-guide
 # My Prework Study Guide
 
 ## Description
