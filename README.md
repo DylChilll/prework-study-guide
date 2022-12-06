@@ -1,3 +1,4 @@
+
 # prework-study-guide
 # My Prework Study Guide
 
@@ -16,7 +17,7 @@ My website can be used to view all the things we bootcamp students have learned 
 ## License
 MIT License
 
-Copyright (c) [year] Dylan Chilton
+Copyright (c) year Dylan Chilton
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
